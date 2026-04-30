@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doorway Dynamics - Commercial Door Repairs - Commercial Door Company News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest commercial door company news and tips from Doorway Dynamics - Commercial Door Repairs in Calgary, Alberta.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 21:04:26 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>Info@doorwaydynamics.ca (Doorway Dynamics - Commercial Door Repairs)</managingEditor>
+    <webMaster>Info@doorwaydynamics.ca (Doorway Dynamics - Commercial Door Repairs)</webMaster>
+    
+  </channel>
+</rss>
